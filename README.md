@@ -1,1 +1,1 @@
-# nextjs-blank
+# NextJS Blank
