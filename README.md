@@ -1,6 +1,6 @@
 # 🖥️ NextJS Blank
 
-## Install
+## Installation
 
 ```shell
 gh repo clone emirhanwsd/nextjs-blank
